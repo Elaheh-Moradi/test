@@ -1,0 +1,8 @@
+article{
+    margin: 1em;
+    padding: 1em;
+    border: 1px solid gray;
+    /* display: flex; */
+    flex: 3;
+    background-color: aqua;
+}
