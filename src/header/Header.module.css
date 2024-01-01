@@ -1,0 +1,7 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aliceblue;
+    margin-top: 1rem;
+    padding:1rem;
+}
